@@ -1,0 +1,10 @@
+{
+   "background": { "scripts": [ "background.js" ] },
+   "description": "Encodes selected text to necromancer language",
+   "manifest_version": 2,
+   "minimum_chrome_version": "45",
+   "name": "Necromancer encoder",
+   "offline_enabled": true,
+   "permissions": [ "activeTab", "background", "contextMenus", "tabs" ],
+   "version": "1.0"
+}
